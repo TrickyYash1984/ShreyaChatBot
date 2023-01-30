@@ -32,7 +32,7 @@ async def is_admins(chat_id: int):
 
 @bot.on_message(filters.command("start"))
 async def start(client, message):
-        await message.reply_text("Hᴇʟʟᴏ Mʏ Nᴀᴍᴇ ɪꜱ Sʜʀᴇʏᴀ 💓\n\nCᴀɴ Yᴏᴜ Cʜᴀᴛ Wɪᴛʜ Mᴇ ?\n\nAɴᴅ Aʟꜱᴏ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Fᴏʀ Cʜᴀᴛɪɴɢ Wɪᴛʜ Mᴇᴍʙᴇʀꜱ .\n\nɪ Cᴀɴ Cʜᴀᴛ ɪɴ Hɪɴᴅɪ ☺️[💓Add Shreya To Your Group💓](https://t.me/Shreya_QueenBot?startgroup=true)")
+        await message.reply_text("Hᴇʟʟᴏ Mʏ Nᴀᴍᴇ ɪꜱ Sʜʀᴇʏᴀ 💓\n\nCᴀɴ Yᴏᴜ Cʜᴀᴛ Wɪᴛʜ Mᴇ ?\n\nAɴᴅ Aʟꜱᴏ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Tʜᴇɴ I Cᴀɴ Cʜᴀᴛ Wɪᴛʜ Yᴏᴜʀ Gʀᴏᴜᴘ Mᴇᴍʙᴇʀꜱ .\n\nI Cᴀɴ Cʜᴀᴛ ɪɴ Hɪɴᴅɪ ☺️\n\n[**💓Aᴅᴅ Sʜʀᴇʏᴀ 💓 Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ💓**](https://t.me/Shreya_QueenBot?startgroup=true)")
        
 
 @bot.on_message(
